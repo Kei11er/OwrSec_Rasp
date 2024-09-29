@@ -99,6 +99,5 @@ Referências
 - RootBeer
 - Jetpack Compose
 
-Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
 
