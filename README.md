@@ -9,7 +9,7 @@ Funcionalidades
 Tecnologias
 - Kotlin: Linguagem de programação usada para a maior parte da aplicação.
 - Java: Utilizada para métodos alternativos de detecção de root.
-- 
+  
 Como Funciona
 
 Na inicialização do aplicativo, duas classes de detecção de root são instanciadas:
@@ -70,9 +70,9 @@ public class rootDetector2 {
 }
 ``` 
 Requisitos
-- Android Studio Arctic Fox (ou mais recente)
-- Kotlin 1.5.0 (ou mais recente)
-- Java 1.8 (ou mais recente)
+- Android Studio
+- Kotlin 
+- Java 
 Como Usar
 
 1. Clone o repositório:
@@ -84,13 +84,11 @@ git clone https://github.com/seu-usuario/OwrSecRASP.git
 3. Compile e execute o projeto em um dispositivo Android ou emulador.
 
 4. O aplicativo irá detectar se o dispositivo tem root. Se for detectado, o app será encerrado automaticamente.
-Estrutura do Projeto
+   
+Estrutura do Projeto:
 - MainActivity.kt: Contém a lógica principal da aplicação e integra as detecções de root.
 - rootDetector.kt: Implementa a detecção de root usando a biblioteca RootBeer.
 - rootDetector2.java: Implementa métodos alternativos de detecção de root baseados em verificações manuais.
-
-Personalização
-Se você deseja adicionar mais verificações ou modificar o comportamento ao detectar root, você pode editar as classes rootDetector ou rootDetector2 conforme necessário.
 
 Referências
 
