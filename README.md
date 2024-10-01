@@ -9,8 +9,6 @@ Funcionalidades
 Tecnologias
 - Kotlin: Linguagem de programação usada para a maior parte da aplicação.
 - Java: Utilizada para métodos alternativos de detecção de root.
-- Jetpack Compose: Framework moderno de UI para Android.
-- Material 3: Biblioteca de UI para o design visual da aplicação.
 - 
 Como Funciona
 
