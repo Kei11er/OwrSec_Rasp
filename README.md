@@ -77,7 +77,7 @@ Como Usar
 
 1. Clone o repositório:
 ```
-git clone https://github.com/seu-usuario/OwrSecRASP.git
+git clone https://github.com/Ke11er/OwrSecRASP.git
 ```
 2. Importe o projeto no Android Studio.
 
